@@ -16,7 +16,7 @@ In our project, we'll be delving into an intriguing dataset: Amazon Fine Food re
 -   **Text_Summarization.ipynb :** Contains all the code, preprocessing, analysis, model fitting.
 
 ## Instructions to load dataset
-Download the dataset from [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews].
+Download the dataset **Reviews.csv** from [https://drive.google.com/drive/folders/1mMT1NhvbSlNXefFAisqlc31fujEtRl6Z?usp=sharing].
 *  Save the downloaded file in the same directory as this script.
 *  Ensure that the file name matches the one specified in the code
 
